@@ -1,1 +1,0 @@
-# [Github Pages](https://mnkh.github.io/palladium-test/)
